@@ -1,6 +1,6 @@
 
 let clickSpan = document.getElementById("clickSpan")
-let clickBtn = document.getElementById("clickBtn")
+let clickBtn = document.getElementById("clickbtn")
 
 let click = 0
 
