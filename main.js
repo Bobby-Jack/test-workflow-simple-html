@@ -8,6 +8,8 @@ function setupDisplay () {
     clickSpan.textContent=click
 }
 
+setupDisplay()
+
 clickBtn.addEventListener('click', ()=>{
     click++
     setupDisplay()
